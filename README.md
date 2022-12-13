@@ -1,9 +1,7 @@
 
 # Search Algorithms
 
-<img src="search_image.png" width="500">
-
-![](search_image.png)
+<img src="search_image.png" width="1000">
 
 This repo is for the students for easy access to all the search algorithms.
 
