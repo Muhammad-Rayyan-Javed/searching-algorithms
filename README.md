@@ -1,6 +1,7 @@
 
 # Search Algorithms
 
+![](search_image.png)
 
 This repo is for the students for easy access to all the search algorithms.
 
